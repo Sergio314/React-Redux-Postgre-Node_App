@@ -12,8 +12,8 @@
     sudo su postgres,
     psql
     CREATE DATABASE products;
-5. Выполнить команду npx sequelize db:migrate
-6. Выполнить команду npx sequelize db:seed:all
+5. Выполнить команду npx sequelize db:migrate в сессии терминала, где путь - Rezet_TT/server$
+6. Выполнить команду npx sequelize db:seed:all в сессии терминала, где путь - Rezet_TT/server$
 7. Запустить сервер, выполнив команды в терминале:
                             npm run server
 8. Запустить клиент, выполнив команды в терминале:
